@@ -1,0 +1,8 @@
+@media (min-width: 768px) {
+    .col-6:first-child {
+      order: 2;
+    }
+    .col-6:last-child {
+      order: 1;
+    }
+  }

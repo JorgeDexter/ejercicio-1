@@ -1,0 +1,10 @@
+.alfredo{
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+}
+@media screen and (max-width: 500px) {
+.alfredo{
+    display: none;
+}
+}
